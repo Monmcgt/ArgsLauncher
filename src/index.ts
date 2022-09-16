@@ -1,5 +1,5 @@
 const func = require("./func");
-const config_file = require("../config/config.json");
+const config_file = require("../config/config.json").command;
 
 const map: Map<string, string> = new Map<string, string>();
 
