@@ -1,3 +1,5 @@
 {
-  "d": "/opt/discord/Discord"
+  "command": {
+    "d": "/opt/discord/Discord"
+  }
 }
